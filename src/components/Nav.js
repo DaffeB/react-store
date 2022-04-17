@@ -8,6 +8,7 @@ export default function Nav() {
         <a className="navbar-brand" href="#">
           Online Store
         </a>
+
         <button
           className="navbar-toggler"
           type="button"

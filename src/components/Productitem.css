@@ -1,0 +1,35 @@
+.product {
+
+  width: 300px;
+  margin-left: 600px;
+  margin-top: 40px;
+}
+
+.logo{
+    margin-left: 40px;
+
+    height: 300px;
+
+}
+
+.product h3{
+    color: rgb(114, 110, 110);
+    margin-left: 35px;
+    margin-top: 5px;
+}
+
+.product h1{
+    font-size: 20px;
+    margin-left: 35px;
+}
+.product .price-before{
+    text-decoration: line-through;
+    margin-left: 35px;
+}
+
+.product .price-discount{
+    color: red;
+    font-weight: bold;
+    margin-left: 35px;
+}
+
